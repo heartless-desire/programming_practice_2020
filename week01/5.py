@@ -1,0 +1,1 @@
+print(sum([__import__('math').factorial(i) for i in range(1, int(input()))]))
