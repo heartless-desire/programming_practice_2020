@@ -1,0 +1,5 @@
+jump 0 40,draw 40 40,draw 0 -80,jump 20 0
+jump 0 80,draw 0 -40,draw 40 0,draw 0 40,draw 0 -80,jump 20 0
+jump 0 40,draw 40 40,draw 0 -80,jump 20 0
+draw 0 40,draw 40 40,draw -40 0,jump 60 -80
+draw 0 80,draw 40 0, draw 0 -80,draw -40 0,jump 60 0
